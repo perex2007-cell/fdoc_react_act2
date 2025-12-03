@@ -1,0 +1,28 @@
+.contenedor {
+border: 1px solid #d1d5db;
+padding: 1rem;
+border-radius: 10px;
+max-width: 260px;
+}
+
+
+.nombre {
+font-size: 1.1rem;
+font-weight: bold;
+}
+
+
+.precio {
+color: #16a34a;
+margin: 0.5rem 0;
+}
+
+
+.botonAgregar {
+background: #2563eb;
+color: white;
+padding: 0.4rem 0.8rem;
+border-radius: 6px;
+border: none;
+cursor: pointer;
+}
