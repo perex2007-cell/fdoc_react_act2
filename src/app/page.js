@@ -1,3 +1,5 @@
+"use client"; 
+
 import PerfilGlobal from "./components/PerfilGlobal";
 import FichaProducto from "./components/FichaProducto";
 import AvisoInline from "./components/AvisoInline";
